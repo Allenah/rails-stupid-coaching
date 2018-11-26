@@ -1,0 +1,37 @@
+// Place all the styles related to the form controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+a {
+  text-decoration: none;
+  color: black
+}
+
+h2 {
+  font-size: 16px;
+  color: #207e82;
+  font-weight: lighter;
+}
+
+h1 {
+  font-size: 32px;
+  color: #1d5464;
+}
+
+.question {
+  color: #45b7b8;
+  background-color: #f9f9f9;
+  border-left: 5px solid #45b7b8;
+  padding-left: 10px;
+
+}
+
+
+.answer {
+  color: #f47645;
+  background-color: #f9f9f9;
+  border-left: 5px solid #f47645;
+  padding-left: 10px;
+
+}
+
